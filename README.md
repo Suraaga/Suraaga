@@ -8,7 +8,8 @@
 </p>
   
  my pronouns are `she/her`.
-[![Image](https://i.imgur.com/JkxyQes.jpg)](https://imgur.com/JkxyQes)
+<a href="https://imgur.com/JkxyQes"><img src="https://i.imgur.com/JkxyQes.jpg" width="400" title="source: imgur.com" /></a>
+
 
 
 
