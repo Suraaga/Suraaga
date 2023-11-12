@@ -9,7 +9,9 @@
   
  my pronouns are `she/her`.
 
-<a href="https://imgur.com/JkxyQes"><img src="https://i.imgur.com/JkxyQes.jpg" width="300" title="source: imgur.com" /></a>
+[![Image](https://i.imgur.com/JkxyQes.jpg)](https://imgur.com/JkxyQes){:width="800px"}
+
+
 
 
 
