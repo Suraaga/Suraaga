@@ -18,5 +18,5 @@
 
 
 
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=euphorichubbbb)](https://github.com/euphorichubbbb)  
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraaga)](https://github.com/suraaga)  
 
